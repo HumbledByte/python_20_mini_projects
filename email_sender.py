@@ -1,5 +1,4 @@
 from email.message import EmailMessage
-from app2 import password
 import os
 import ssl
 import smtplib
